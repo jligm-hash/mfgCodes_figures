@@ -1,0 +1,31 @@
+﻿patientId,gender,age,vitalstatus,time,daystonewtumoreventafterin,karnofskyperformancescore,firstdrugname,radiationtherapy,newneoplasmeventtype,historyofneoadjuvanttreatment,initialpathologicdiagnosismethod,priorglioma,race,mri classification,mgmt_promoter_methylation,idh1,class,distance
+TCGA-02-0003,male,50,1,144,40,100,tamoxifen,yes,recurrence,no,tumor resection,no,white,multifocal,0,WT,proneural,1.6
+TCGA-02-0033,male,54,1,86,32,100,NA,yes,progression of disease,no,tumor resection,no,white,multicentric,1,WT,mesenchymal,4.19
+TCGA-02-0085,female,63,1,1561,976,80,temozolomide,yes,progression of disease,no,tumor resection,no,white,multifocal,1,WT,mesenchymal,0.46
+TCGA-06-0139,male,40,1,362,152,60,cpt11,yes,progression of disease,no,tumor resection,no,white,multicentric,0,WT,mesenchymal,4.92
+TCGA-06-0142,male,81,1,67,NA,NA,NA,NA,NA,no,tumor resection,no,white,multicentric,1,,neural,2.75
+TCGA-06-0166,male,51,1,178,66,NA,oxaliplatin,no,progression of disease,no,tumor resection,no,white,multifocal,NA,WT,proneural,1.35
+TCGA-06-0173,female,72,1,136,NA,NA,NA,no,NA,no,tumor resection,no,white,multifocal,NA,WT,neural,1.31
+TCGA-06-0188,male,71,0,866,NA,100,temozolomide,yes,NA,no,tumor resection,no,white,multifocal,NA,WT,neural,0.79
+TCGA-06-0238,male,46,1,405,311,80,NA,yes,progression of disease,no,tumor resection,no,white,multifocal,NA,WT,proneural,1.53
+TCGA-06-1802,male,61,0,240,81,80,irinotecan,yes,recurrence,no,tumor resection,no,white,multifocal,1,,mesenchymal,1.05
+TCGA-08-0349,male,46,1,298,93,NA,temodar,yes,progression of disease,no,tumor resection,no,NA,multifocal,NA,WT,neural,1.05
+TCGA-08-0352,male,79,1,39,NA,NA,NA,no,NA,no,tumor resection,no,white,multifocal,NA,WT,mesenchymal,1.84
+TCGA-08-0390,male,69,1,425,NA,60,temodar,yes,NA,no,tumor resection,no,white,multifocal,NA,WT,mesenchymal,1.16
+TCGA-08-0392,male,60,1,22,NA,NA,NA,no,NA,no,excisional biopsy,no,white,multifocal,NA,,mesenchymal,1.15
+TCGA-08-0524,female,17,1,221,61,80,ccnu,yes,progression of disease,no,tumor resection,no,white,multifocal,NA,,proneural,1.13
+TCGA-12-1096,male,55,1,277,270,80,temodor,no,recurrence,no,excisional biopsy,no,white,multifocal,0,,mesenchymal,0.72
+TCGA-12-1097,male,61,1,442,166,100,temodar,yes,progression of disease,no,excisional biopsy,no,white,multifocal,0,,neural,1.23
+TCGA-12-1599,female,47,1,781,89,80,temodar,yes,progression of disease,no,tumor resection,no,white,multifocal,1,WT,neural,0.83
+TCGA-14-0789,male,54,1,342,105,40,temodar,yes,progression of disease,no,tumor resection,no,white,multicentric,1,WT,mesenchymal,1.61
+TCGA-14-1396,female,78,1,34,NA,60,dexamethasone,no,NA,no,tumor resection,no,white,multicentric,1,WT,mesenchymal,1.37
+TCGA-14-1401,male,54,1,114,NA,80,dexamethsone,no,NA,no,tumor resection,no,white,multicentric,1,,proneural,1.39
+TCGA-19-1388,male,58,1,394,148,NA,avastin,yes,progression of disease,no,tumor resection,no,white,multifocal,1,WT,mesenchymal,1.55
+TCGA-19-2620,male,70,1,148,NA,40,temozolomide,yes,NA,no,tumor resection,no,white,multicentric,1,WT,neural,2.05
+TCGA-19-5951,female,76,1,244,NA,80,temodar,yes,NA,no,tumor resection,no,white,multifocal,0,WT,classical,1.21
+TCGA-19-5954,female,72,0,242,NA,60,temodar,yes,NA,no,tumor resection,no,white,multicentric,1,WT,classical,4.58
+TCGA-19-5955,male,83,1,54,NA,NA,NA,no,NA,no,tumor resection,no,white,multifocal,1,WT,mesenchymal,0.82
+TCGA-27-1830,male,57,1,154,124,80,cisplatin,yes,recurrence,no,tumor resection,no,white,multifocal,1,WT,proneural,0.75
+TCGA-27-1835,female,53,1,648,157,80,cisplatin,yes,progression of disease,no,tumor resection,no,white,multicentric,1,WT,classical,1.19
+TCGA-27-1838,female,59,1,350,119,80,cisplatin,yes,progression of disease,no,tumor resection,no,white,multicentric,0,WT,mesenchymal,3.96
+TCGA-76-6193,male,78,1,82,64,60,temodar,yes,progression of disease,no,tumor resection,no,NA,multifocal,0,WT,mesenchymal,0.41
