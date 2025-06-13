@@ -3,7 +3,7 @@
 This is the figure code repository for the MFG project.
 
 
-## Open Commend
+## Open Comment
 
 The merge request is open for code review and maintenance.
 
